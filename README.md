@@ -1,4 +1,4 @@
-### How Hops it ? :female_detective:
+### How Hops it ? :wink:
 
 - 🔭 I’m currently working on ...Building light weight firewalls for IoT devices
 - 🌱 I’m currently learning ...All things IoT with a dash of IT Security principles thrown in
