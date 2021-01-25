@@ -2,6 +2,4 @@
 ## Welcome to My headspace!
 <p>A part time redditter and full time computer scientist, I am currently pursuing an undergraduate computer science engineering degree. I love inventing things and coming up with innovative research project ideas. My main area of interest is applied machine learning in health care and physical world interactions. My GitHub profile is an eclectic haven and houses a select few projects that I have worked on during my run as an almost computer engineer.
 </p>
-<p> To know more about the work that I do, you can visit my LinkedIn account [![LinkedIn][2.2]][2]
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://www.linkedin.com/in/heinz-martin/
+<p> To know more about the work that I do, you can visit my LinkedIn account <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png">
