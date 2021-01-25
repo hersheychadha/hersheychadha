@@ -1,4 +1,4 @@
-### How Hops it ? :wink:
+### How Hops it ? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on ... Applied Machine Learning in Healthcare
 - 👯 I’m looking to collaborate on ...Data Science and Deep Learning Projects
