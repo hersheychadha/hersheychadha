@@ -1,9 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif"></p>
-
-- 🔭 I’m currently working on ... Applied Machine Learning in Healthcare
-- 👯 I’m looking to collaborate on ...Data Science and Deep Learning Projects
-- 🤔 I’m looking for help with ...Real time image depth recognition algorithms
-- 💬 Ask me about ...Science and computer stuff!
-- 📫 How to reach me: ...[LinkedIn Profile](https://www.linkedin.com/in/harshita-chadha-1b8576163/)
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ... I am a staunch believer of the existence of extraterrestrial intelligence.
+## Welcome to My headspace!
+<p>A part time redditter and full time computer scientist, I am currently pursuing an undergraduate computer science engineering degree. I love inventing things and coming up with innovative research project ideas. My main area of interest is applied machine learning in health care and physical world interactions. My GitHub profile is an eclectic haven and houses select few projects that I have worked on during my run as a computer scientist.
+</p>
+<p> To know more about the work that I do, you can visit my LinkedIn account [![LinkedIn][3.2]][3]
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://www.linkedin.com/in/harshita-chadha-1b8576163/
