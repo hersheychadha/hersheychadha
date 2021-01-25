@@ -1,7 +1,6 @@
 ### How Hops it ? :wink:
 
-- 🔭 I’m currently working on ...Building light weight firewalls for IoT devices
-- 🌱 I’m currently learning ...All things IoT with a dash of IT Security principles thrown in
+- 🔭 I’m currently working on ... Applied Machine Learning in Healthcare
 - 👯 I’m looking to collaborate on ...Data Science and Deep Learning Projects
 - 🤔 I’m looking for help with ...Real time image depth recognition algorithms
 - 💬 Ask me about ...Science and computer stuff!
