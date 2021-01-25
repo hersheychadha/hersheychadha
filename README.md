@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif" align="center">
+<p align="center"><img src="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif"></p>
 
 - 🔭 I’m currently working on ... Applied Machine Learning in Healthcare
 - 👯 I’m looking to collaborate on ...Data Science and Deep Learning Projects
