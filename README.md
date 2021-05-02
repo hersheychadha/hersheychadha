@@ -2,10 +2,10 @@
 <img align='left' src="https://media.giphy.com/media/l1J9uTjO4mqy36gqQ/giphy.gif" width="400">
 <h3>Part time redditer 🤡 | Full time computer scientist 💻</h3>
 
-<p>★ What do I do? : I am a Machine Learning and Data Engineer.
-  ★ Technologies I work with : Machine Learning, Deep Learning, Data Science and Analytics, Front-end Web Developement.
-  ★ Programming Languages : Python, Java, MATLAB.
-  ★ How to reach me? : See social links below or email me @ harshitaachadha@gmail.com
+<p>★ What do I do? : I am a Machine Learning and Data Engineer.<br>
+  ★ Technologies I work with : Machine Learning, Deep Learning, Data Science and Analytics, Front-end Web Developement.<br>
+  ★ Programming Languages : Python, Java, MATLAB.<br>
+  ★ How to reach me? : See social links below or email me @ harshitaachadha@gmail.com.<br>
   </p>
 
 [![Linkedin: HarshitaChadha](https://img.shields.io/badge/-HarshitaChadha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-chadha-1b8576163/)](https://www.linkedin.com/in/harshita-chadha-1b8576163/)
