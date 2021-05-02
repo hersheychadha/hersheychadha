@@ -8,8 +8,6 @@
   ★ <em>How to reach me? :</em> See social links below or email me @ harshitaachadha@gmail.com.
   </p>
   <hr>
-<br> </br>
-
 [![Linkedin: HarshitaChadha](https://img.shields.io/badge/-HarshitaChadha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-chadha-1b8576163/)](https://www.linkedin.com/in/harshita-chadha-1b8576163/)
 [![Generic badge](https://img.shields.io/badge/Personal-Website-violet.svg)](https://harshitachadha.wixsite.com/website)
 [![GitHub hersheychadha](https://img.shields.io/github/followers/hersheychadha?label=follow&style=social)](https://github.com/hersheychadha)
