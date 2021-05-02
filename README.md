@@ -4,5 +4,5 @@
 <p> To know more about the work that I do, you can visit my LinkedIn account <a href="https://www.linkedin.com/in/harshita-chadha-1b8576163/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"></a>. You can also find me at my very own <a href ="https://harshitachadha.wixsite.com/website"> website. </a> </p>
 
 [![Linkedin: HarshitaChadha](https://img.shields.io/badge/-HarshitaChadha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-chadha-1b8576163/)](https://www.linkedin.com/in/harshita-chadha-1b8576163/)
-[! [ Website harshita chadha](https://badgen.net/badge/HarshitaChadha'sThink]Tank/:status/:violet?icon=github)(https://harshitachadha.wixsite.com/website)
+[! [ Website harshita chadha](https://badgen.net/badge/HarshitaChadha'sThinkTank/:status/:violet?icon=github)](https://harshitachadha.wixsite.com/website)
 [![GitHub hersheychadha](https://img.shields.io/github/followers/hersheychadha?label=follow&style=social)](https://github.com/hersheychadha)
