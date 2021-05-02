@@ -1,5 +1,5 @@
 <h1 align='center'>🔮 Welcome to My headspace!</h1>
-<img align='left' src="https://media.giphy.com/media/l1J9uTjO4mqy36gqQ/giphy.gif" width="350">
+<img align='left' src="https://media.giphy.com/media/l1J9uTjO4mqy36gqQ/giphy.gif" width="320">
 <h3>Part time redditer 🤡 | Full time computer scientist 💻</h3>
 <hr>
 <p>★ <b>What do I do? : </b>I am a Machine Learning and Data Engineer.</p>
