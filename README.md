@@ -5,6 +5,7 @@
 <p>★ <b>What do I do? : </b>I am a Machine Learning and Data Engineer.</p>
   ★ <b>Technologies I work with :</b> Machine Learning, Deep Learning, Data Science and Analytics, Front-end Web Developement.</p>
   ★ <b>Programming Languages : </b>Python, Java, MATLAB.</p>
+  ★ <b>Current Reasearch :</b> DRL for neurofeedback
   ★ <b>How to reach me? :</b> See social links below or email me @ harshitaachadha@gmail.com.
   </p>
   
