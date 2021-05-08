@@ -1,4 +1,4 @@
-<h1 align='center'>🔮 Welcome to My headspace!</h1>
+<h1 align='center'>🔮 Welcome to my headspace!</h1>
 <img align='right' src="https://media.giphy.com/media/l1J9uTjO4mqy36gqQ/giphy.gif" width="320">
 <h3>Part time redditer 🤡 | Full time computer scientist 💻</h3>
 <hr>
